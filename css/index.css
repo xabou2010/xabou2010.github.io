@@ -12,19 +12,9 @@ body {
     background: linear-gradient(to right, #020c18 , #020d22);
 }
 
-.construct{
-    text-align: center;
-    margin: auto;
-    background-color: #22355857;
-    border-radius: 50px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 5px;
-}
+
 .social {
     text-align: center;
-    margin: auto;
     background-color: #22355857;
     width: 300px;
     border-radius: 50px;
